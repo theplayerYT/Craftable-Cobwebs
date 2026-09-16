@@ -3,8 +3,8 @@
     "description": "a datapack to add craftable cobwebs to the game",
     "min_format": [
       107,
-      1
+      0
     ],
-    "max_format": 107
+    "max_format": 121
   }
 }
