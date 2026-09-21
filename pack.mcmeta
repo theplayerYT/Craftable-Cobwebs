@@ -2,7 +2,7 @@
   "pack": {
     "description": "a datapack to add craftable cobwebs to the game",
     "min_format": [
-      107,
+      88,
       0
     ],
     "max_format": 121
